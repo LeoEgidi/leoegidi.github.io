@@ -1,45 +1,31 @@
-# Impostazioni del sito
-
-title: "Leonardo Egidi"
-description: "Website of the statistician Leonardo Egidi"
-
-# Impostazioni autore
+---
+title: Leonardo Egidi
+description: Website of the statistician Leonardo Egidi
 author:
-  name: "Leonardo Egidi"
-  email: "legidi@units.it"
+  name: Leonardo Egidi
+  email: legidi@units.it
   twitter_username: tuo_twitter
   github_username: LeoEgidi
-
-# Tema
-
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# Pagine di navigazione (facoltativo)
-# Aggiungi collegamenti alle pagine nella barra di navigazione
+  - jekyll-remote-theme
 navigation:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Research"
-    url: "/research/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "Teaching"
-    url: "/teaching/"
-  - title: "CV"
-    url: "/cv/"
-
-
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
 show_downloads: "true"
-
-# Impostazioni del permalink
-# Definisce come saranno costruiti gli URL delle pagine e post
 permalink: /:categories/:title/
-
-# Impostazioni relative al build
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules"] # File da escludere dal build
-
-
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
