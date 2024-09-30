@@ -1,6 +1,8 @@
 ---
 title: Leonardo Egidi
 description: Website of the statistician Leonardo Egidi
+baseurl: "" # Se stai pubblicando in una sottocartella, imposta il baseurl come /subfolder
+url: "https://leoegidi.github.io" # URL del tuo sito
 author:
   name: Leonardo Egidi
   email: legidi@units.it
