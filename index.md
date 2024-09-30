@@ -18,3 +18,6 @@ I am also involved in various statistical consulting projects, particularly in t
 I teach the courses 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'.
 I am an active member of the Italian Statistical Society (SIS) and the International Society for Bayesian Analysis.
 I am the deputy chair of the ISI Special Interest Group in Sports Statistics
+
+
+![](egidi_pic.jpg)
