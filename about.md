@@ -5,7 +5,7 @@ title: "About"
 
 # About me
 
-I am an *assistant professor (rtd-b)* of statistics  at the Department of Business, Economics, Mathematics and Statistics  'Bruno de Finetti' (DEAMS) 
+I am an **assistant professor (rtd-b)** of **statistics**  at the Department of Business, Economics, Mathematics and Statistics  'Bruno de Finetti' (DEAMS) 
 of the University of Trieste.  I got my PhD in Statistics among the Department of Statistical Sciences, University of Padova.
 In the period January-July 2016, I was a visiting scholar among the Department of Statistical Sciences of the Columbia University, New York. 
 My academic and research focus includes theoretical and applied statistics, with notable work in Bayesian methods, 
