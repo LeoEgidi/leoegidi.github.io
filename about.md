@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "About"
-# permalink: /about/
 ---
 
-
-## About me
+# About me
 
 I am an *assistant professor (rtd-b)* of statistics  at the Department of Business, Economics, Mathematics and Statistics  'Bruno de Finetti' (DEAMS) 
 of the University of Trieste.  I got my PhD in Statistics among the Department of Statistical Sciences, University of Padova.
