@@ -24,7 +24,7 @@ navigation:
     url: /teaching/
   - title: CV
     url: /cv/
-show_downloads: "true"
+# show_downloads: "true"
 permalink: /:categories/:title/
 exclude:
   - README.md
