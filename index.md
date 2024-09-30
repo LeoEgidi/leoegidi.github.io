@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Benvenuto nel mio sito"
+title: "Leonardo Egidi"
 ---
 
-# Benvenuto!
+# Welcome to my website!
 
-Questo è il mio sito personale costruito con Jekyll e GitHub Pages. 
-Visita il mio [blog](/blog) per gli ultimi aggiornamenti.
+I am **Leonardo Egidi**, assistant professor of **Statistics** at the University of Trieste.
