@@ -1,5 +1,5 @@
 ---
-title: Leonardo Egidi
+title: "Leonardo Egidi"
 description: Website of the statistician Leonardo Egidi
 baseurl: "" # Se stai pubblicando in una sottocartella, imposta il baseurl come /subfolder
 url: "https://leoegidi.github.io" # URL del tuo sito
@@ -12,8 +12,8 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-remote-theme
 navigation:
-  - title: Home
-    url: /
+  #- title: Home
+  #  url: /
   - title: About
     url: /about/
   - title: Research
