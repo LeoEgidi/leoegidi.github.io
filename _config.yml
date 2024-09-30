@@ -35,5 +35,11 @@ navigation:
 
 show_downloads: "true"
 
+# Impostazioni del permalink
+# Definisce come saranno costruiti gli URL delle pagine e post
+permalink: /:categories/:title/
+
+# Impostazioni relative al build
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules"] # File da escludere dal build
 
 
