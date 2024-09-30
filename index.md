@@ -20,4 +20,4 @@ I am an active member of the Italian Statistical Society (SIS) and the Internati
 I am the deputy chair of the ISI Special Interest Group in Sports Statistics
 
 
-![](egidi_small.jpg)
+![da](egidi_small.jpg)
