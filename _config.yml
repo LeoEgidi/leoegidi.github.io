@@ -16,18 +16,18 @@ navigation:
   #  url: /
   - title: About
     url: /about/
-  - title: Research
-    url: /research/
-  - title: Publications
-    url: /publications/
-  - title: Teaching
-    url: /teaching/
-  - title: CV
-    url: /cv/
+  #- title: Research
+  #  url: /research/
+  #- title: Publications
+  #  url: /publications/
+  #- title: Teaching
+  #  url: /teaching/
+  #- title: CV
+  #  url: /cv/
 # show_downloads: "true"
 permalink: /:categories/:title/
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - node_modules
+#  - node_modules
