@@ -1,4 +1,11 @@
-About
+---
+layout: default
+title: About Me
+permalink: /about/
+---
+
+
+## About me
 
 
 - I am an assistant professor (rtd-a)  at the Department of Business, Economics, Mathematics and Statistics  'Bruno de Finetti'  of the University of Trieste.  I teach the courses Advanced Statistics, Statistical and Machine Learning, and Bayesian Statistics for the Data Science and Scientific Computing Master degree provided by the Department of Mathematics and Earth Sciences and the master degree in Statistical and Acturial Sciences at DEAMS.
