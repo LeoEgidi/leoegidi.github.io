@@ -9,13 +9,21 @@ title: "About me"
 
 <div class="two-columns">
   <div class="column">
+     <p>
+      I am an <strong>assistant professor (rtd-b)</strong> of <strong>Statistics</strong> at the 
+      <a href="https://deams.units.it/" target="_blank">Department of Business, Economics, Mathematics and Statistics 'Bruno de Finetti' (DEAMS)</a> 
+      of the <a href="https://portale.units.it/it" target="_blank">University of Trieste</a>.
+    </p>
     <p>
-      I am an <strong>assistant professor (rtd-b)</strong> of <strong>Statistics</strong> at the [Department of Business, Economics, Mathematics and Statistics 'Bruno de Finetti' (DEAMS)](https://deams.units.it/)
-      of the [University of Trieste](https://portale.units.it/it).<br><br>
-      
-      Previously, I was a postodctoral research fellow at [DEAMS](https://deams.units.it/) (2018-2020)
-      I got my PhD in Statistics among the [Department of Statistical Sciences](https://www.stat.unipd.it/), [University of Padova](https://www.unipd.it/) in 2018.
-      In 2016, I have been a visiting scholar among the [Department of Statistical Sciences](https://stat.columbia.edu/) of the [Columbia University, New York](https://www.columbia.edu/) under the supervision of [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).<br><br>
+      Previously, I was a postdoctoral research fellow at 
+      <a href="https://deams.units.it/" target="_blank">DEAMS</a> (2018-2020). 
+      I got my PhD in Statistics among the 
+      <a href="https://www.stat.unipd.it/" target="_blank">Department of Statistical Sciences</a>, 
+      <a href="https://www.unipd.it/" target="_blank">University of Padova</a> in 2018. 
+      In 2016, I have been a visiting scholar among the 
+      <a href="https://stat.columbia.edu/" target="_blank">Department of Statistical Sciences</a> of 
+      <a href="https://www.columbia.edu/" target="_blank">Columbia University, New York</a> under the supervision of 
+      <a href="http://www.stat.columbia.edu/~gelman/" target="_blank">Andrew Gelman</a>.
     </p>
   </div>
 <div class="column">
