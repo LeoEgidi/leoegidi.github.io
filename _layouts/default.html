@@ -32,4 +32,17 @@
 <body class="theme-base-08">
   ...
 </body>
+
+<nav>
+  <ul>
+    {% for item in site.navigation %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+
 </html>
+
+
+
