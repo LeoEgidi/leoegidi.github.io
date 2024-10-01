@@ -19,3 +19,5 @@ permalink: /research/
 </div>
 
 <img src="ls.png" alt="bayesian" width = "100">
+
+<img src="egidi_small.png" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
