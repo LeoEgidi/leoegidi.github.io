@@ -14,6 +14,10 @@ author:
   github_username: LeoEgidi
 # remote_theme: pages-themes/tactile@v0.2.0
 
+# Gems
+plugins:
+  - jekyll-paginate
+
 navigation:
   - title: Home
     url: /
@@ -27,10 +31,12 @@ navigation:
  #   url: /cv/
 # show_downloads: "true"
 
+
+
 exclude:
   - README.md
-  - Gemfile
-  - Gemfile.lock
+#  - Gemfile
+#  - Gemfile.lock
 #  - node_modules
 
 # Dependencies
