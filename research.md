@@ -14,7 +14,7 @@ permalink: /research/
     </p>
   </div>
 <div class="column">
-    <img src="ls.png" alt="bayesian">
+    <img src="ls.png" alt="bayesian" width = "100">
   </div>
 </div>
 
