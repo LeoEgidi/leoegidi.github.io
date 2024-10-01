@@ -5,6 +5,7 @@ title: "About me"
 
 # Leonardo Egidi
 
+<p>
 I am an **assistant professor (rtd-b)** of **Statistics**  at the Department of Business, Economics, Mathematics and Statistics  'Bruno de Finetti' (DEAMS) 
 of the University of Trieste.  
 
@@ -18,8 +19,6 @@ I am also involved in various statistical consulting projects, particularly in t
 I teach the courses 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'.
 I am an active member of the Italian Statistical Society (SIS) and the International Society for Bayesian Analysis.
 I am the deputy chair of the ISI Special Interest Group in Sports Statistics
-
-
-![](egidi_small.png)
+</p>
 
 <img src="egidi_small.png" alt="Egidi" width="300">
