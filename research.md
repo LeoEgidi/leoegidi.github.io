@@ -5,7 +5,7 @@ sidebar: true
 permalink: /research/
 ---
 
-# Research Focuses
+
 
 <div class="two-columns">
   <div class="column">
