@@ -18,4 +18,4 @@ permalink: /research/
   </div>
 </div>
 
-<img src="bipod.png" alt="bayesian" width = "100">
+<img src="ls.png" alt="bayesian" width = "100">

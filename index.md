@@ -43,5 +43,5 @@ and the [University of Zurich](https://www.uzh.ch/en.html). I am also involved i
 
 I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'.
 
-I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/) and the [International Society for Bayesian Analysis](https://bayesian.org/). 
+I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/) and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/). 
 I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics).
