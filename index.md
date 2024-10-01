@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About me"
+description: "Website of Leonardo Egidi, assistant professor of statistics."
 ---
 
 # Leonardo Egidi
