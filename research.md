@@ -13,7 +13,7 @@ permalink: /research/
      <strong>Bayesian inference</strong> 
     </p>
   </div>
-<div class="column">
+  <div class="column">
     <img src="ls.png" alt="bayesian" width = "100">
   </div>
 </div>
