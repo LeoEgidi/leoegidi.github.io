@@ -7,10 +7,6 @@ title: "About me"
 
 
 <div class="two-columns">
-<div class="column">
-    <img src="egidi_small.png" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
-  </div>
-</div>
   <div class="column">
     <p>
       I am an <strong>assistant professor (rtd-b)</strong> of <strong>Statistics</strong> at the Department of Business, Economics, Mathematics and Statistics 'Bruno de Finetti' (DEAMS) of the University of Trieste.<br><br>
@@ -26,5 +22,9 @@ title: "About me"
       I am an active member of the Italian Statistical Society (SIS) and the International Society for Bayesian Analysis. I am the deputy chair of the ISI Special Interest Group in Sports Statistics.
     </p>
   </div>
+<div class="column">
+    <img src="egidi_small.png" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
+  </div>
+</div>
   
 
