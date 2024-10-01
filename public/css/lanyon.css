@@ -571,3 +571,7 @@ a.pagination-item:hover {
   max-width: 100%; /* L'immagine non supererà mai la larghezza della colonna */
 }
 
+<body class="theme-base-08">
+  ...
+</body>
+
