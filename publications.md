@@ -1,7 +1,8 @@
 
 ---
-layout: default
+layout: page
 title: "Publications"
+permalink: "/publications/
 ---
 
 
