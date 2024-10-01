@@ -7,9 +7,9 @@ permalink: /publications/
 
 
 
-# Selected pubblications
+## Selected pubblications
 
-## Theoretical, computational statistics, and machine learning
+### Theoretical, computational statistics, and machine learning
 
 - **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2024).** Mixture priors for replication studies. [arXiv preprint](arXiv preprint arXiv:2406.19152).
 
@@ -29,12 +29,12 @@ permalink: /publications/
 
 - **Egidi, L., Pappadà, R., Pauli, F., Torelli, N. (2018).** Maxima Units Search (MUS) algorithm: methodology and applications. [Studies in Theoretical and Applied Statistics](https://link.springer.com/chapter/10.1007/978-3-319-73906-9_7), 227, 71-81.
 
-## Economics
+### Economics
 
 - **Marzi, G., Balzano, M., Egidi, L., Magrini, A. (2023).** CLC Estimator: a tool for latent construct estimation via congeneric approaches in survey research. [Multivariate Behavioral Research](https://www.tandfonline.com/toc/hmbr20/current), 1-5.
 
 
-## Medical statistics, psychometric and biostatistics
+### Medical statistics, psychometric and biostatistics
 
 - **Pastore, M. R., Milan, S., Agolini, R., Egidi, L., Agostini, T., Belfanti, L., Tognetto, D. (2022).** How Could Medical and Surgical Treatment Affect the Quality of Life in Glaucoma Patients? A Cross-Sectional Study. [Journal of Clinical Medicine](https://www.mdpi.com/journal/jcm), 11(24), 7301-7312.
 
@@ -44,7 +44,7 @@ permalink: /publications/
 
 
 
-## Sports statistics
+### Sports statistics
 
 - **Macrì Demartino, R., Egidi, L., Torelli, N. (2024).** Alternative ranking measures to predict international football results. [arXiv preprint](arXiv preprint arXiv:2405.10247).
 
