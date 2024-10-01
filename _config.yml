@@ -26,7 +26,7 @@ navigation:
  # - title: CV
  #   url: /cv/
 # show_downloads: "true"
-permalink: /:categories/:title/
+
 exclude:
   - README.md
   - Gemfile
