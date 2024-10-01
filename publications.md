@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Publications"
 sidebar: true
 permalink: /publications/
