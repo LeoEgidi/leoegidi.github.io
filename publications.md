@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Publications"
+sidebar: true
 permalink: /publications/
 ---
 
