@@ -12,6 +12,7 @@ permalink: /research/
      <p>
      <strong>Bayesian inference</strong>: models, computational methods, robust prior distributions.
     </p>
+<img src="/ls.png" alt="bayesian" class="image-uniform">
   </div>
   <div class="column">
     <img src="/ls.png" alt="bayesian" class="image-uniform">
