@@ -14,7 +14,7 @@ permalink: /research/
     </p>
   </div>
   <div class="column">
-    <img src="/ls.png" alt="bayesian" width = "300">
+    <img src="/ls.png" alt="bayesian" class="image-uniform">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ permalink: /research/
     </p>
   </div>
 <div class="column">
-    <img src="/cl.jpg" alt="clustering" style="display: block; margin: auto;" width="300">
+    <img src="/cl.jpg" alt="clustering" class="image-uniform">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ permalink: /research/
     </p>
   </div>
 <div class="column">
-    <img src="/rs.png" alt="replication" style="display: block; margin: auto;" width="300">
+    <img src="/rs.png" alt="replication" class="image-uniform">
   </div>
 </div>
 
@@ -49,7 +49,7 @@ permalink: /research/
     </p>
   </div>
 <div class="column">
-    <img src="/football.png" alt="football" style="display: block; margin: auto;" width="300">
+    <img src="/football.png" alt="football" class="image-uniform">
   </div>
 </div>
 
@@ -60,7 +60,7 @@ permalink: /research/
     </p>
   </div>
 <div class="column">
-    <img src="/bipod.png" alt="bipod" style="display: block; margin: auto;" width="300">
+    <img src="/bipod.png" alt="bipod" class="image-uniform">
   </div>
 </div>
 
@@ -72,7 +72,7 @@ permalink: /research/
     </p>
   </div>
 <div class="column">
-    <img src="/barplot.png" alt="barplot" style="display: block; margin: auto;" width="300">
+    <img src="/barplot.png" alt="barplot" class="image-uniform">
   </div>
 </div>
 
