@@ -10,13 +10,13 @@ permalink: /research/
 <div class="two-columns">
   <div class="column">
      <p>
-     <strong>Bayesian inference</strong>: models, computational methods, robust prior distributions.
+     <strong>Bayesian inference</strong>: models, priors,  computational methods.
     </p>
 <img src="/ls.png" alt="bayesian" class="image-uniform">
   </div>
   <div class="column">
     <p>
-     <strong>Robust clustering</strong>: robust k-means initialization.
+     <strong>Robust clustering</strong>: pivotal methods.
     </p>
    <img src="/cl.jpg" alt="clustering" class="image-uniform">
   </div>
@@ -33,7 +33,7 @@ permalink: /research/
   </div>
 <div class="column">
   <p>
-   <strong>Sports statistics</strong>: models and tools for modeling and predictions.
+   <strong>Sports statistics</strong>: Bayesian models and computational tools for modeling and predictions.
    </p>
    <img src="/football.png" alt="football" class="image-uniform">
   </div>
@@ -49,7 +49,7 @@ permalink: /research/
   </div>
 <div class="column">
     <p>
-     <strong>Biostatistics and medical studies</strong>: models, hypothesis testing amd inferential conclusions for medical applications.
+     <strong>Biostatistics and medical studies</strong>: descriptive statistics, models, hypothesis testing.
     </p>
   <img src="/barplot.png" alt="barplot" class="image-uniform">
   </div>
