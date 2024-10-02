@@ -16,7 +16,7 @@ permalink: /research/
   </div>
   <div class="column">
     <p>
-     <strong>Robust clustering</strong>: pivotal methods for better partitions.
+     <strong>Robust clustering</strong>: pivotal methods for seeding initialization and better partitions.
     </p>
    <img src="/cl.png" alt="clustering" class="image-uniform">
   </div>
