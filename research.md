@@ -15,21 +15,13 @@ permalink: /research/
 <img src="/ls.png" alt="bayesian" class="image-uniform">
   </div>
   <div class="column">
-    <img src="/ls.png" alt="bayesian" class="image-uniform">
-  </div>
-</div>
-
-
-<div class="two-columns">
-  <div class="column">
-     <p>
+    <p>
      <strong>Robust clustering</strong>: robust k-means initialization.
     </p>
-  </div>
-<div class="column">
-    <img src="/cl.jpg" alt="clustering" class="image-uniform">
+   <img src="/cl.jpg" alt="clustering" class="image-uniform">
   </div>
 </div>
+
 
 
 <div class="two-columns">
@@ -37,43 +29,30 @@ permalink: /research/
      <p>
      <strong>Replication crisis in science</strong>: Bayesian tools for assessing replication success in scientific domains.
     </p>
+ <img src="/rs.png" alt="replication" class="image-uniform">
   </div>
 <div class="column">
-    <img src="/rs.png" alt="replication" class="image-uniform">
+  <p>
+   <strong>Sports statistics</strong>: models and tools for modeling and predictions.
+   </p>
+   <img src="/football.png" alt="football" class="image-uniform">
   </div>
 </div>
 
-<div class="two-columns">
-  <div class="column">
-     <p>
-     <strong>Sports statistics</strong>: models and tools for modeling and predictions.
-    </p>
-  </div>
-<div class="column">
-    <img src="/football.png" alt="football" class="image-uniform">
-  </div>
-</div>
 
 <div class="two-columns">
   <div class="column">
      <p>
      <strong>Population genomics modeling</strong>: computational methods for genomics.
     </p>
+<img src="/bipod.png" alt="bipod" class="image-uniform">
   </div>
 <div class="column">
-    <img src="/bipod.png" alt="bipod" class="image-uniform">
-  </div>
-</div>
-
-
-<div class="two-columns">
-  <div class="column">
-     <p>
+    <p>
      <strong>Biostatistics and medical studies</strong>: models, hypothesis testing amd inferential conclusions for medical applications.
     </p>
-  </div>
-<div class="column">
-    <img src="/barplot.png" alt="barplot" class="image-uniform">
+  <img src="/barplot.png" alt="barplot" class="image-uniform">
   </div>
 </div>
+
 
