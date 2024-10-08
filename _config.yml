@@ -17,6 +17,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 navigation:
   - title: Home
@@ -33,6 +34,8 @@ navigation:
     url: /cv/
   - title: Students
     url: /students/
+  - title: Media
+    url: /media/
 # show_downloads: "true"
 
 

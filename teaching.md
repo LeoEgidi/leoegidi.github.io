@@ -3,6 +3,7 @@ layout: page
 title: "Teaching"
 sidebar: true
 permalink: /teaching/
+description: "List of academic master's and phd courses held by Leonardo Egidi"
 ---
 
 ### Master’s Degree Courses

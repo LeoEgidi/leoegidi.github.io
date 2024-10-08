@@ -3,9 +3,10 @@ layout: page
 title: "Research"
 sidebar: true
 permalink: /research/
+description: "Research themes of Leonardo Egidi"
 ---
 
-## Themes 
+# Themes 
 
 <div class="two-columns">
   <div class="column">

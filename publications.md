@@ -3,6 +3,7 @@ layout: page
 title: "Publications"
 sidebar: true
 permalink: /publications/
+desciption: "List of academic publications of Leonardo Egidi"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About me"
+title: "Leonardo Egidi - About me"
 description: "Website of Leonardo Egidi, assistant professor of statistics."
 ---
 
@@ -35,6 +35,11 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 ## Research
 
 My research embraces <strong>theoretical and applied statistics</strong>, with  strong emphasis in <strong>Bayesian methods</strong>, computational statistics, and applications in fields such as biostatistics, economics, genomics, and sports analytics.<br><br>
+
+
+## Scientific dissemination
+
+I usually give [talks](https://www.youtube.com/watch?v=uvuQfhRePCg&t=2917s), seminars, and interviews about my scientific activity.
 
 
 ## Teaching, supervision, and consultancy      

@@ -3,6 +3,7 @@ layout: page
 title: "Students"
 sidebar: true
 permalink: /students/
+description: "Master's and PhD students supervised by Leonardo Egidi"
 ---
 
 ### PhD Supervision
