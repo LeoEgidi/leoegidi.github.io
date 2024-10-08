@@ -27,10 +27,12 @@ navigation:
     url: /publications/
   - title: Software
     url: /software/
- # - title: Teaching
- #   url: /teaching/
- # - title: CV
- #   url: /cv/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
+  - title: Students
+    url: /students/
 # show_downloads: "true"
 
 
