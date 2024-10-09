@@ -6,6 +6,8 @@ permalink: /students/
 description: "Master's and PhD students supervised by Leonardo Egidi"
 ---
 
+I have supervised 19 Master students and 2 Bachelor in Statistics and Data Science on different topics.
+
 ### PhD Supervision
 
 - **Roberto Macrì Demartino**: *PhD in Statistical Sciences*, University of Padova, "XXXVII Cycle" (2021-2024). Co-supervisor: Nicola Torelli.
