@@ -14,7 +14,7 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
         <i class="fab fa-linkedin"></i>
     </a>
     <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" target="_blank">
-       <img src="scholar.png" alt="Google Scholar" class="scholar-icon">  
+       <i class="fas fa-book"></i>  
     </a>
     <a href="https://orcid.org/0000-0003-3211-905X" target="_blank">
         <i class="fa-brands fa-orcid"></i>
@@ -29,7 +29,7 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
         <i class="fa-brands fa-github"></i>
     </a>
    <a href="https://www.scopus.com/authid/detail.uri?authorId=57195512567" target="_blank">
-        <img src="scopus.png" alt="Scopus" class="scopus-icon">
+        <i class="fas fa-microscope"></i> 
    </a>
 </div>
 
