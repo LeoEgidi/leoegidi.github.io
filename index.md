@@ -6,6 +6,34 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 
 # Leonardo Egidi
 
+<div class="social-icons">
+    <a href="mailto:legidi@units.it" target="_blank">
+        <i class="fas fa-envelope"></i> <!-- Icona dell'email -->
+    </a>
+    <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" target="_blank">
+        <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" target="_blank">
+       <img src="scholar.png" alt="Google Scholar" class="scholar-icon">  
+    </a>
+    <a href="https://orcid.org/0000-0003-3211-905X" target="_blank">
+        <i class="fa-brands fa-orcid"></i>
+    </a>
+    <a href="https://www.researchgate.net/profile/Leonardo-Egidi" target="_blank">
+        <i class="fa-brands fa-researchgate"></i>
+    </a>
+    <a href="https://www.youtube.com/results?search_query=leonardo+egidi" target="_blank">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+   <a href="https://github.com/LeoEgidi" target="_blank">
+        <i class="fa-brands fa-github"></i>
+    </a>
+   <a href="https://www.scopus.com/authid/detail.uri?authorId=57195512567" target="_blank">
+        <img src="scopus.png" alt="Scopus" class="scopus-icon">
+   </a>
+</div>
+
+
 ## Short bio
 
 <div class="two-columns">
@@ -53,22 +81,5 @@ I am an active member of the [Italian Statistical Society (SIS)](https://www.sis
 I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics).
 
 
-<div class="social-icons">
-    <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" target="_blank">
-        <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" target="_blank">
-        <i class="fas fa-graduation-cap"></i> <!-- Usa un'icona che rappresenti il mondo accademico -->
-    </a>
-    <a href="https://orcid.org/0000-0003-3211-905X" target="_blank">
-        <i class="fa-brands fa-orcid"></i>
-    </a>
-    <a href="https://www.researchgate.net/profile/Leonardo-Egidi" target="_blank">
-        <i class="fa-brands fa-researchgate"></i>
-    </a>
-    <a href="https://www.youtube.com/results?search_query=leonardo+egidi" target="_blank">
-        <i class="fa-brands fa-youtube"></i>
-    </a>
-    
-</div>
+
 

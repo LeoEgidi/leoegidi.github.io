@@ -601,6 +601,21 @@ a.pagination-item:hover {
     color: #0077b5; /* Cambia colore al passaggio del mouse, ad esempio per LinkedIn */
 }
 
+.scholar-icon {
+    width: 24px; /* Regola la dimensione dell'icona */
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.scopus-icon {
+    width: 24px; /* Regola la dimensione dell'icona */
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
 
 
 
