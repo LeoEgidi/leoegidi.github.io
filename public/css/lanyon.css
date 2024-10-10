@@ -585,6 +585,22 @@ a.pagination-item:hover {
 }
 
 
+.social-icons {
+    margin: 20px;
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons a {
+    text-decoration: none;
+    color: #000; /* Colore dell'icona */
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: #0077b5; /* Cambia colore al passaggio del mouse, ad esempio per LinkedIn */
+}
+
 
 
 

@@ -33,7 +33,7 @@ description: "List of academic master's and phd courses held by Leonardo Egidi"
 
 - **Statistica**
   - 8 hours (2023-2025)
-  - *Igiene e medicina del lavoroé, University of Trieste
+  - *Igiene e medicina del lavoro*, University of Trieste
 
 
 ### PhD Courses
@@ -54,10 +54,10 @@ description: "List of academic master's and phd courses held by Leonardo Egidi"
 
 - **Introduction to Bayesian Data Analysis with Stan**
   - Research Center in Sevilla; University of Pavia (2017-2018)
-  - Co-taught with [Jonah Sol Gabry](https://jgabry.github.io/), Columbia University
+  - Co-taught with [Jonah Sol Gabry](https://jgabry.github.io/), [Columbia University](https://www.columbia.edu/)
 
 - **Actuary of the Future**
-  -  48 hours, *Assicurazioni Generali* (2020-2022)
+  -  48 hours, [*Assicurazioni Generali*](https://www.generali.it/?prv=search&gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5Bqv2ILbSyy6IDkrNDZ0vIyt8eJVjSGLKUkaz_6Tn2M8gJD46y9UauxoCfLgQAvD_BwE&gclsrc=aw.ds) (2020-2022)
 
 - **Machine Learning Techniques for Actuarial Applications**
   - Virtual lecture, 4 hours, *IVASS (Istituto per la vigilanza sulle assicurazioni)* (2021)

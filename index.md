@@ -39,7 +39,7 @@ My research embraces <strong>theoretical and applied statistics</strong>, with  
 
 ## Scientific dissemination
 
-I usually give [talks](https://www.youtube.com/watch?v=uvuQfhRePCg&t=2917s), seminars, and interviews about my scientific activity.
+I usually give [talks](https://www.youtube.com/results?search_query=leonardo+egidi), seminars, and interviews about my scientific activity.
 
 
 ## Teaching, supervision, and consultancy      
@@ -51,3 +51,24 @@ I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', an
 
 I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/) and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/). 
 I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics).
+
+
+<div class="social-icons">
+    <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" target="_blank">
+        <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" target="_blank">
+        <i class="fas fa-graduation-cap"></i> <!-- Usa un'icona che rappresenti il mondo accademico -->
+    </a>
+    <a href="https://orcid.org/0000-0003-3211-905X" target="_blank">
+        <i class="fa-brands fa-orcid"></i>
+    </a>
+    <a href="https://www.researchgate.net/profile/Leonardo-Egidi" target="_blank">
+        <i class="fa-brands fa-researchgate"></i>
+    </a>
+    <a href="https://www.youtube.com/results?search_query=leonardo+egidi" target="_blank">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+    
+</div>
+
