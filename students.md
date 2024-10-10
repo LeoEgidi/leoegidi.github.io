@@ -4,6 +4,7 @@ title: "Students"
 sidebar: true
 permalink: /students/
 description: "MSc and PhD students supervised by Leonardo Egidi"
+font: "Roboto"
 ---
 
 I have supervised 19 MSc students and 2 Bachelor students in Statistics and Data Science on different topics.
