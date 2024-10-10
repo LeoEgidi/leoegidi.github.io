@@ -8,17 +8,17 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 
 
-## Selected pubblications
+## Selected publications in journals
 
 ### Theoretical, computational statistics, and machine learning
 
-- **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2024).** Mixture priors for replication studies. [arXiv preprint](arXiv preprint arXiv:2406.19152).
+- **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2024).** Mixture priors for replication studies. [arXiv preprint arXiv:2406.19152](https://arxiv.org/abs/2406.19152).
 
-- **Macrì Demartino, R., Egidi, L., Torelli, N., Ntzoufras, I. (2024).** Eliciting prior information from clinical trials via calibrated Bayes factor. [arXiv preprint](arXiv preprint arXiv:2406.19346).
+- **Macrì Demartino, R., Egidi, L., Torelli, N., Ntzoufras, I. (2024).** Eliciting prior information from clinical trials via calibrated Bayes factor. [arXiv preprint arXiv:2406.19346](https://arxiv.org/abs/2406.19346).
 
 - **Egidi, L., Pappadà, R., Pauli, F., Torelli, N. (2024).** pivmet: an R package proposing pivotal methods for consensus clustering and mixture modelling. [Journal of Open Source Software](https://joss.theoj.org/), 98(9), 6461-6466.
 
-- **Consonni, G., Egidi, L. (2023).** Assessing replication success via skeptical mixture priors. [arXiv preprint](arXiv preprint arXiv:2401.00257).
+- **Consonni, G., Egidi, L. (2023).** Assessing replication success via skeptical mixture priors. [arXiv preprint arXiv:2401.00257](https://arxiv.org/html/2401.00257v1).
 
 - **Egidi, L., Pauli, F., Torelli, N., Zaccarin, S. (2023).** Clustering spatial networks through latent mixture models. [Journal of the Royal Statistical Society (Series A)](https://rss.onlinelibrary.wiley.com/journal/1467985x), 186(1), 137-156.
 
@@ -47,7 +47,7 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Sports statistics
 
-- **Macrì Demartino, R., Egidi, L., Torelli, N. (2024).** Alternative ranking measures to predict international football results. [arXiv preprint](arXiv preprint arXiv:2405.10247).
+- **Macrì Demartino, R., Egidi, L., Torelli, N. (2024).** Alternative ranking measures to predict international football results. [arXiv preprint arXiv:2405.10247](https://arxiv.org/html/2405.10247v1).
 
 - **Egidi, L. (2023).** Seconder of the vote of thanks to Narayanan, Kosmidis, and Dellaportas and contribution to the Discussion of "Flexible marked spatio-temporal point processes with applications to event sequences from association football". [Journal of the Royal Statistical Society (Series C)](https://rss.onlinelibrary.wiley.com/journal/14679876), 72(5), 1129-1130.
 

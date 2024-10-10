@@ -64,7 +64,7 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 
 My research embraces <strong>theoretical and applied statistics</strong>, with  strong emphasis in <strong>Bayesian methods</strong>, computational statistics, and applications in fields such as biostatistics, economics, genomics, and sports analytics.<br><br>
 
-I am the **Principal Investigator**(PI) of the [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D) project 
+I am the **Principal Investigator** (PI) of the [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D) project 
 *SMARTsports - Statistical Models and AlgoRiThms in sports. Applications in professional and amateur contexts, with able-bodied and disabled athletes* 
 funded by [Ministero dell' Università e della Ricerca](https://www.mur.gov.it/it) (CUP: J53D23003860006) in 2023. Joint project with [University of Udine](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/prin-2022/dies/smartsports-statistical-models-and-algorithms-in-sports-applications-in-professional-and-amateur-contexts-with-able-bodied-and-disabled-athletes) 
 and [University of Brescia](https://www.unibs.it/it).
