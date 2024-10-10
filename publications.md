@@ -26,7 +26,10 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 - **Egidi, L., Pauli, F., Torelli, N. (2021).** Avoiding prior-data conflict in regression models via mixture priors. [The Canadian Journal of Statistics](https://onlinelibrary.wiley.com/journal/17089461), 50(2), 491-510.
 
-- **Egidi, L., Pappadà, R., Pauli, F., Torelli, N. (2018).** Relabelling in Bayesian mixture models by pivotal units. [Statistics and Computing](https://www.springer.com/journal/11222), 28(4), 957-969.
+- **Egidi, L., Pappadà, R., Pauli, F., Torelli, N. (2018).** Relabelling in Bayesian mixture models by pivotal units. [Statistics and Computing](https://www.springer.com/journal/11222), 28(4), 957-969. 
+<a href="{{ '/paper/egidi_relabeling.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
 
 - **Egidi, L., Pappadà, R., Pauli, F., Torelli, N. (2018).** Maxima Units Search (MUS) algorithm: methodology and applications. [Studies in Theoretical and Applied Statistics](https://link.springer.com/chapter/10.1007/978-3-319-73906-9_7), 227, 71-81.
 
