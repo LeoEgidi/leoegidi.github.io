@@ -603,14 +603,14 @@ a.pagination-item:hover {
 
 .scholar-icon {
     width: 5px; /* Regola la dimensione dell'icona */
-    height: auto;
+    height: 5px;
     display: inline-block;
     vertical-align: middle;
 }
 
 .scopus-icon {
     width: 5px; /* Regola la dimensione dell'icona */
-    height: auto;
+    height: 5px;
     display: inline-block;
     vertical-align: middle;
 }
