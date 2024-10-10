@@ -606,6 +606,7 @@ a.pagination-item:hover {
     height: 5px;
     display: inline-block;
     vertical-align: middle;
+    filter = #000;
 }
 
 .scopus-icon {
