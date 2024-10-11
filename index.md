@@ -85,9 +85,8 @@ I am an active member of the [Italian Statistical Society (SIS)](https://www.sis
 I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics).
 
 
-You can download my whole CV here
-
-<a href="{{ '/paper/clustering.pdf' | relative_url }}" target="_blank">
+You can download my whole CV here: 
+<a href="{{ '/paper/cv.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
 
