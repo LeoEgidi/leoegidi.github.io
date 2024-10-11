@@ -14,25 +14,25 @@ description: "List of academic master's and phd courses held by Leonardo Egidi"
   - *Data Science and Scientific Computing*, University of Trieste
 
 - **[Bayesian Statistics](https://units.coursecatalogue.cineca.it/insegnamenti/2024/117941/2023/1/10681?coorte=2023&schemaid=12581)**
-  -  32 hours (2018-2025)
+  -  32 hours (2018-ongoing)
   - *Data Science and Scientific Computing*,  *Statistical and actuarial Sciences*, University of Trieste
 
 - **[Statistica (Corso Progredito)](https://units.coursecatalogue.cineca.it/insegnamenti/2024/113341/2018/1/10256?coorte=2023&schemaid=12615)**
-  -  30 hours (2021-2025)
+  -  30 hours (2021-ongoing)
   - *Master's in *Statistical and actuarial sciences*, University of Trieste
 
 - **[Apprendimento statistico e machine learning](https://units.coursecatalogue.cineca.it/insegnamenti/2024/119313/2017/2/10232?coorte=2024&schemaid=12793)**
-  -  30 hours (2022-2025)
+  -  30 hours (2022-ongoing)
   - *Statistical and actuarial sciences*, University of Trieste
 
 - **[Advanced Statistical Methods](https://units.coursecatalogue.cineca.it/insegnamenti/2024/119901/2023/2/10681?coorte=2023&schemaid=12582)**
-  -  24 hours (2023-2024), 16 hours (2024-2025)
+  -  24 hours (2023-2024), 16 hours (2024-ongoing)
   - *Data Science and Artificial Intelligence*, University of Trieste
 
 ### Scuole di specialità
 
 - **Statistica**
-  - 8 hours (2023-2025)
+  - 8 hours (2023-ongoing)
   - *Igiene e medicina del lavoro*, University of Trieste
 
 
@@ -43,11 +43,11 @@ description: "List of academic master's and phd courses held by Leonardo Egidi"
   - *Statistical Sciences*, University of Padova
 
 - **[Review of Statistics](https://adsai.units.it/courses/)**
-  -  6 hours (2022-2025)
+  -  6 hours (2022-ongoing)
   - *Artificial Intelligence and Applied Data Science* (ADSAI), University of Trieste
 
 - **[Advanced Statistics](https://adsai.units.it/courses/)**
-  -  6 hours (2022-2025)
+  -  6 hours (2022-ongoing)
   - *Artificial Intelligence and Applied Data Science* (ADSAI), University of Trieste
 
 ### Extra-curricular Courses

@@ -13,7 +13,7 @@ I have supervised 19 MSc students and 2 Bachelor students in Statistics and Data
 
 - **Roberto Macrì Demartino**: *PhD in Statistical Sciences*, University of Padova, "XXXVII Cycle" (2021-2024). Co-supervisor: Nicola Torelli.
 - **Giovanni Santacatterina**: *PhD in Artificial Intelligence and Applied Data Science* (ADSAI), University of Trieste, "XXXVIII Cycle" (2022-2025). Co-supervisor: Giulio Caravagna.
-- **Badar ud din Taher**: *PhD in Artificial Intelligence and Applied Data Science* (ADSAI), University of Trieste, "XXX Cycle" (2024-2027). Co-supervisor: Nicola Torelli.
+- **Badar ud din Taher**: *PhD in Artificial Intelligence and Applied Data Science* (ADSAI), University of Trieste, "XXXIX Cycle" (2023-2026). Co-supervisor: Nicola Torelli.
 
 ### Thesis Supervision (MSc and Bachelor)
 
