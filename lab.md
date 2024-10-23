@@ -13,7 +13,7 @@ If you are a statistician, data scientist, or applied scientist interested in **
 
 The **egBayes Lab** is a vibrant community of postdoctoral researchers, PhD students, and MSc students working in statistics and data science projects.
 
-If you want to take an online/in person appointment, please use the [Calendly application](https://calendly.com/leonegidihttps://calendly.com/leonegidi){:target="_blank" rel="noopener noreferrer"}.
+If you want to take an online/in person appointment, please use the [Calendly application](https://calendly.com/leonegidi){:target="_blank" rel="noopener noreferrer"}.
 
 The *egBayes Lab* is located in Via Valerio 4/1, 34127, Trieste. Building D (DEAMS), 2nd floor, room 2.19.
 
