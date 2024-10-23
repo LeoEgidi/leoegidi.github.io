@@ -12,6 +12,7 @@ If you are a statistician, data scientist, or applied scientist interested in **
  **computational algorithms**, and/or **statistical modeling**, join our group, by writing me an email at: legidi *at* units *dot* it.
 
 The **egBayes Lab** is a vibrant community of postdoctoral researchers, PhD students, and MSc students working in statistics and data science projects.
+For any update and event of the lab, consult this page frequently.
 
 If you want to take an online/in person appointment, please use the [Calendly application](https://calendly.com/leonegidi){:target="_blank" rel="noopener noreferrer"}.
 
