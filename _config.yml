@@ -32,6 +32,10 @@ navigation:
     url: /teaching/
   - title: Students
     url: /students/
+  - title: egBayes Lab
+    url: /lab/
+# show_downloads: "true"
+
 
 
 exclude:
