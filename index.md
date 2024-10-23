@@ -6,6 +6,34 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 
 # Leonardo Egidi
 
+<div class="social-icons">
+    <a href="mailto:legidi@units.it" target="_blank">
+        <i class="fas fa-envelope"></i> <!-- Icona dell'email -->
+    </a>
+    <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" target="_blank">
+        <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" target="_blank">
+       <i class="fas fa-book"></i>  
+    </a>
+    <a href="https://orcid.org/0000-0003-3211-905X" target="_blank">
+        <i class="fa-brands fa-orcid"></i>
+    </a>
+    <a href="https://www.researchgate.net/profile/Leonardo-Egidi" target="_blank">
+        <i class="fa-brands fa-researchgate"></i>
+    </a>
+    <a href="https://www.youtube.com/results?search_query=leonardo+egidi" target="_blank">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+   <a href="https://github.com/LeoEgidi" target="_blank">
+        <i class="fa-brands fa-github"></i>
+    </a>
+   <a href="https://www.scopus.com/authid/detail.uri?authorId=57195512567" target="_blank">
+        <i class="fas fa-microscope"></i> 
+   </a>
+</div>
+
+
 ## Short bio
 
 <div class="two-columns">
@@ -36,18 +64,29 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 
 My research embraces <strong>theoretical and applied statistics</strong>, with  strong emphasis in <strong>Bayesian methods</strong>, computational statistics, and applications in fields such as biostatistics, economics, genomics, and sports analytics.<br><br>
 
+I am the **Principal Investigator** (PI) of the [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D) project 
+*SMARTsports - Statistical Models and AlgoRiThms in sports. Applications in professional and amateur contexts, with able-bodied and disabled athletes* 
+funded by [Ministero dell' Università e della Ricerca](https://www.mur.gov.it/it) (CUP: J53D23003860006) in 2023. Joint project with [University of Udine](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/prin-2022/dies/smartsports-statistical-models-and-algorithms-in-sports-applications-in-professional-and-amateur-contexts-with-able-bodied-and-disabled-athletes) 
+and [University of Brescia](https://www.unibs.it/it).
 
 ## Scientific dissemination
 
-I usually give [talks](https://www.youtube.com/watch?v=uvuQfhRePCg&t=2917s){:target="_blank" rel="noopener noreferrer"}, seminars, and interviews about my scientific activity.
+I usually give [talks](https://www.youtube.com/results?search_query=leonardo+egidi), seminars, and [interviews](https://www.youtube.com/results?search_query=leonardo+egidi) about my scientific activity and general topics statistics related to science.
 
 
 ## Teaching, supervision, and consultancy      
 
-I supervise master’s and PhD students and collaborate internationally with universities like [Columbia University](https://www.columbia.edu/){:target="_blank" rel="noopener noreferrer"}, [Athens University of Economics and Business](https://www.aueb.gr/){:target="_blank" rel="noopener noreferrer"},
-and the [University of Zurich](https://www.uzh.ch/en.html){:target="_blank" rel="noopener noreferrer"}. I am also involved in various statistical consulting projects, particularly in the health and business sectors.
+I supervise master’s and PhD students and collaborate internationally with universities like [Columbia University](https://www.columbia.edu/), [Athens University of Economics and Business](https://www.aueb.gr/),
+and the [University of Zurich](https://www.uzh.ch/en.html). I am also involved in various statistical consulting projects, particularly in the health and business sectors.
 
 I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'.
 
-I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/){:target="_blank" rel="noopener noreferrer"} and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/){:target="_blank" rel="noopener noreferrer"}. 
-I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics){:target="_blank" rel="noopener noreferrer"}.
+I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/) and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/). 
+I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics).
+
+
+You can download my whole CV here: 
+<a href="{{ '/paper/cv.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
+

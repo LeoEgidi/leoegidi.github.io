@@ -6,7 +6,6 @@ permalink: /research/
 description: "Research themes of Leonardo Egidi"
 ---
 
-# Themes 
 
 <div class="two-columns">
   <div class="column">

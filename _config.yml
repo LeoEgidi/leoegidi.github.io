@@ -30,14 +30,8 @@ navigation:
     url: /software/
   - title: Teaching
     url: /teaching/
-  - title: CV
-    url: /cv/
   - title: Students
     url: /students/
-  - title: Media
-    url: /media/
-# show_downloads: "true"
-
 
 
 exclude:
