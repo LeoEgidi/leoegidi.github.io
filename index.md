@@ -39,15 +39,15 @@ My research embraces <strong>theoretical and applied statistics</strong>, with  
 
 ## Scientific dissemination
 
-I usually give [talks](https://www.youtube.com/watch?v=uvuQfhRePCg&t=2917s), seminars, and interviews about my scientific activity.
+I usually give [talks](https://www.youtube.com/watch?v=uvuQfhRePCg&t=2917s){:target="_blank" rel="noopener noreferrer"}, seminars, and interviews about my scientific activity.
 
 
 ## Teaching, supervision, and consultancy      
 
-I supervise master’s and PhD students and collaborate internationally with universities like [Columbia University](https://www.columbia.edu/), [Athens University of Economics and Business](https://www.aueb.gr/),
-and the [University of Zurich](https://www.uzh.ch/en.html). I am also involved in various statistical consulting projects, particularly in the health and business sectors.
+I supervise master’s and PhD students and collaborate internationally with universities like [Columbia University](https://www.columbia.edu/){:target="_blank" rel="noopener noreferrer"}, [Athens University of Economics and Business](https://www.aueb.gr/){:target="_blank" rel="noopener noreferrer"},
+and the [University of Zurich](https://www.uzh.ch/en.html){:target="_blank" rel="noopener noreferrer"}. I am also involved in various statistical consulting projects, particularly in the health and business sectors.
 
 I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'.
 
-I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/) and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/). 
-I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics).
+I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/){:target="_blank" rel="noopener noreferrer"} and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/){:target="_blank" rel="noopener noreferrer"}. 
+I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics){:target="_blank" rel="noopener noreferrer"}.
