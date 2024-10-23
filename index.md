@@ -66,7 +66,7 @@ My research embraces <strong>theoretical and applied statistics</strong>, with  
 
 I am the **Principal Investigator** (PI) of the [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D){:target="_blank" rel="noopener noreferrer"} project 
 *SMARTsports - Statistical Models and AlgoRiThms in sports. Applications in professional and amateur contexts, with able-bodied and disabled athletes* 
-funded by [Ministero dell' Università e della Ricerca](https://www.mur.gov.it/it) (CUP: J53D23003860006) in 2023. Joint project with [University of Udine](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/prin-2022/dies/smartsports-statistical-models-and-algorithms-in-sports-applications-in-professional-and-amateur-contexts-with-able-bodied-and-disabled-athletes){:target="_blank" rel="noopener noreferrer"} 
+funded by [Ministero dell' Università e della Ricerca](https://www.mur.gov.it/it){:target="_blank" rel="noopener noreferrer"} (CUP: J53D23003860006) in 2023. Joint project with [University of Udine](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/prin-2022/dies/smartsports-statistical-models-and-algorithms-in-sports-applications-in-professional-and-amateur-contexts-with-able-bodied-and-disabled-athletes){:target="_blank" rel="noopener noreferrer"} 
 and [University of Brescia](https://www.unibs.it/it){:target="_blank" rel="noopener noreferrer"}.
 
 ## Scientific dissemination
