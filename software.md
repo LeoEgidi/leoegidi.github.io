@@ -2,7 +2,7 @@
 layout: page
 title: "Software"
 sidebar: true
-permalink: /software/
+permalink: /leonardo-egidi-software/
 description: "Software and packages from Leonardo Egidi"
 ---
 

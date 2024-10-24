@@ -62,7 +62,7 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
   
 ## Research
 
-My research embraces <strong>theoretical and applied statistics</strong>, with  strong emphasis in <strong>Bayesian methods</strong>, computational statistics, and applications in fields such as biostatistics, economics, genomics, and sports analytics.<br><br>
+My research embraces <strong>theoretical and applied statistics</strong>, with  strong emphasis in <strong>Bayesian methods</strong>, computational statistics, and applications in fields such as biostatistics, economics, genomics, and sports analytics. See more [here](https://leoegidi.github.io/leonardo-egidi-research/){:target="_blank" rel="noopener noreferrer"} and [here](https://leoegidi.github.io/leonardo-egidi-publications/){:target="_blank" rel="noopener noreferrer"}.<br><br>
 
 I am the **Principal Investigator** (PI) of the [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D){:target="_blank" rel="noopener noreferrer"} project 
 *SMARTsports - Statistical Models and AlgoRiThms in sports. Applications in professional and amateur contexts, with able-bodied and disabled athletes* 
@@ -81,7 +81,7 @@ I belong to the teaching board of the PhD program in [Applied Data Science and A
 I supervise master’s and PhD students and collaborate internationally with universities like [Columbia University](https://www.columbia.edu/){:target="_blank" rel="noopener noreferrer"}, [Athens University of Economics and Business](https://www.aueb.gr/){:target="_blank" rel="noopener noreferrer"},
 and the [University of Zurich](https://www.uzh.ch/en.html){:target="_blank" rel="noopener noreferrer"}. I am also involved in various statistical consulting projects, particularly in the health and business sectors.
 
-I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'.
+I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', and 'Bayesian Statistics'. See more [here](https://leoegidi.github.io/leonardo-egidi-teaching/){:target="_blank" rel="noopener noreferrer"}.
 
 I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/){:target="_blank" rel="noopener noreferrer"} and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/){:target="_blank" rel="noopener noreferrer"}. 
 I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics){:target="_blank" rel="noopener noreferrer"}.

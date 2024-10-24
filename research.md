@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 sidebar: true
-permalink: /research/
+permalink: /leonardo-egidi-research/
 description: "Research themes of Leonardo Egidi"
 ---
 

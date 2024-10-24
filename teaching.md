@@ -2,7 +2,7 @@
 layout: page
 title: "Teaching"
 sidebar: true
-permalink: /teaching/
+permalink: /leonardo-egidi-teaching/
 description: "List of academic master's and phd courses held by Leonardo Egidi"
 ---
 

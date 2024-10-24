@@ -2,7 +2,7 @@
 layout: page
 title: "Publications"
 sidebar: true
-permalink: /publications/
+permalink: /leonardo-egidi-publications/
 desciption: "List of academic publications of Leonardo Egidi"
 ---
 

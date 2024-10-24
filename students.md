@@ -2,7 +2,7 @@
 layout: page
 title: "Students"
 sidebar: true
-permalink: /students/
+permalink: /leonardo-egidi-students/
 description: "MSc and PhD students supervised by Leonardo Egidi"
 font: "Roboto"
 ---

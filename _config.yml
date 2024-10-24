@@ -23,17 +23,17 @@ navigation:
   - title: Home
     url: /
   - title: Research
-    url: /research/
+    url: /leonardo-egidi-research/
   - title: Publications
-    url: /publications/
+    url: /leonardo-egidi-publications/
   - title: Software
-    url: /software/
+    url: /leonardo-egidi-software/
   - title: Teaching
-    url: /teaching/
+    url: /leonardo-egidi-teaching/
   - title: Students
-    url: /students/
+    url: /leonardo-egidi-students/
   - title: egBayes Lab
-    url: /lab/
+    url: /leonardo-egidi-lab/
 # show_downloads: "true"
 
 

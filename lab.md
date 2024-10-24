@@ -2,7 +2,7 @@
 layout: page
 title: "egBayes Lab"
 sidebar: true
-permalink: /lab/
+permalink: /leonardo-egidi-lab/
 description: "Bayesian Lab of Leonardo Egidi"
 ---
 
