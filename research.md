@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 sidebar: true
 permalink: /leonardo-egidi-research/
-description: "Research themes of Leonardo Egidi"
+description: "Scientific research interests of Leonardo Egidi"
 ---
 
 
