@@ -575,6 +575,10 @@ a.pagination-item:hover {
   ...
 </body>
 
+body {
+    background-color: #f5f5dc; /* Questo è un colore bianco crema */
+}
+
 .image-uniform {
   width: 70%; /* La larghezza sarà sempre il 100% del contenitore */
   max-width: 200px; /* Limita la larghezza massima a 300px */
