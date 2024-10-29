@@ -9,6 +9,7 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 <div class="social-icons">
     <a href="mailto:legidi@units.it" target="_blank">
         <i class="fas fa-envelope"></i> <!-- Icona dell'email -->
+        <span class="tooltip">Mail</span>
     </a>
     <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" target="_blank">
         <i class="fab fa-linkedin"></i>
