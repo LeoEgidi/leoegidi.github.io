@@ -11,26 +11,33 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
         <i class="fas fa-envelope"></i> <!-- Icona dell'email -->
         <span class="tooltip">Mail</span>
     </a>
-    <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" target="_blank">
+    <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" class="icon-link" target="_blank">
         <i class="fab fa-linkedin"></i>
+        <span class="tooltip">LinkedIn</span>
     </a>
-    <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" target="_blank">
+    <a href="https://scholar.google.com/citations?user=Ux1LY_Qx7T8C&hl=it&oi=ao" class="icon-link" target="_blank">
        <i class="fas fa-book"></i>  
+      <span class="tooltip">Google Scholar</span>
     </a>
-    <a href="https://orcid.org/0000-0003-3211-905X" target="_blank">
+    <a href="https://orcid.org/0000-0003-3211-905X" class="icon-link" target="_blank">
         <i class="fa-brands fa-orcid"></i>
+        <span class="tooltip">ORCID</span>
     </a>
-    <a href="https://www.researchgate.net/profile/Leonardo-Egidi" target="_blank">
+    <a href="https://www.researchgate.net/profile/Leonardo-Egidi" class="icon-link" target="_blank">
         <i class="fa-brands fa-researchgate"></i>
+        <span class="tooltip">ResearchGate</span>
     </a>
-    <a href="https://www.youtube.com/results?search_query=leonardo+egidi" target="_blank">
+    <a href="https://www.youtube.com/results?search_query=leonardo+egidi" class="icon-link" target="_blank">
         <i class="fa-brands fa-youtube"></i>
+        <span class="tooltip">YouTube</span>
     </a>
-   <a href="https://github.com/LeoEgidi" target="_blank">
+   <a href="https://github.com/LeoEgidi" class="icon-link" target="_blank">
         <i class="fa-brands fa-github"></i>
+         <span class="tooltip">Github</span>
     </a>
-   <a href="https://www.scopus.com/authid/detail.uri?authorId=57195512567" target="_blank">
+   <a href="https://www.scopus.com/authid/detail.uri?authorId=57195512567" class="icon-link" target="_blank">
         <i class="fas fa-microscope"></i> 
+        <span class="tooltip">Scopus</span>
    </a>
 </div>
 
