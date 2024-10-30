@@ -25,7 +25,7 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
     </a>
     <a href="https://www.researchgate.net/profile/Leonardo-Egidi" class="icon-link" target="_blank">
         <i class="fa-brands fa-researchgate"></i>
-        <span class="tooltip">ResearchGate</span>
+        <span class="tooltip">ResGate</span>
     </a>
     <a href="https://www.youtube.com/results?search_query=leonardo+egidi" class="icon-link" target="_blank">
         <i class="fa-brands fa-youtube"></i>
