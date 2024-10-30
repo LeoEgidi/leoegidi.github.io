@@ -8,6 +8,7 @@ font: "Roboto"
 ---
 
 I have supervised 19 MSc students and 2 Bachelor students in Statistics and Data Science on different topics.
+I supervise and co-supervise also 3 PhD students.
 
 ### PhD Supervision
 
