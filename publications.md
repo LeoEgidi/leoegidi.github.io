@@ -75,7 +75,7 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Sports statistics
 
-- **Macrì Demartino, R., Egidi, L., Torelli, N. (2024).** Alternative ranking measures to predict international football results. [arXiv preprint arXiv:2405.10247](https://arxiv.org/html/2405.10247v1){:target="_blank" rel="noopener noreferrer"}.
+- **Macrì Demartino, R., Egidi, L., Torelli, N. (2024).** Alternative ranking measures to predict international football results. [Computational Statistics](https://link.springer.com/article/10.1007/s00180-024-01585-z){:target="_blank" rel="noopener noreferrer"}, 1-19.
 
 - **Egidi, L. (2023).** Seconder of the vote of thanks to Narayanan, Kosmidis, and Dellaportas and contribution to the Discussion of "Flexible marked spatio-temporal point processes with applications to event sequences from association football". [Journal of the Royal Statistical Society (Series C)](https://rss.onlinelibrary.wiley.com/journal/14679876){:target="_blank" rel="noopener noreferrer"}, 72(5), 1129-1130.
 <a href="{{ '/paper/discussion_paper.pdf' | relative_url }}" target="_blank">

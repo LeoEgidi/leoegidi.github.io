@@ -7,7 +7,7 @@ description: "MSc and PhD students supervised by Leonardo Egidi"
 font: "Roboto"
 ---
 
-I have supervised 19 MSc students and 2 Bachelor students in Statistics and Data Science on different topics.
+I have supervised 22 MSc students and 2 Bachelor students in Statistics and Data Science on different topics.
 I supervise and co-supervise also 3 PhD students.
 
 ### PhD Supervision
@@ -39,3 +39,4 @@ I supervise and co-supervise also 3 PhD students.
 - **Marco Davide Ceruti**: *Analysis of football data: a comparison between classical and tie-inflated statistical models* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2022-2023).
 - **Mauro Mariotto**: *Modelli previsionali per churn analysis* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2022-2023).
 - **Aurora Michelin**: *L'emissione di anidride carbonica in ambito aziendale e il conseguente impatto sul riscaldamento globale: modelli statistici e studio della letteratura*. (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2023-2024) 
+- **Nico Zanusso**: *Assessing Implicit Inflation: an Individual-level Data Approach* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2023-2024).
