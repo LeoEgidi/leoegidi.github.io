@@ -14,7 +14,10 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 - **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2024).** Mixture priors for replication studies. [arXiv preprint arXiv:2406.19152](https://arxiv.org/abs/2406.19152){:target="_blank" rel="noopener noreferrer"}.
 
-- **Macrì Demartino, R., Egidi, L., Torelli, N., Ntzoufras, I. (2024).** Eliciting prior information from clinical trials via calibrated Bayes factor. [arXiv preprint arXiv:2406.19346](https://arxiv.org/abs/2406.19346){:target="_blank" rel="noopener noreferrer"}.
+- **Macrì Demartino, R., Egidi, L., Torelli, N., Ntzoufras, I. (2024).** Eliciting prior information from clinical trials via calibrated Bayes factor. [Computational Statistics & Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947325000568){:target="_blank" rel="noopener noreferrer"}, 209, 1-18.
+<a href="{{ '/paper/paper_csda.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
 
 - **Egidi, L., Pappadà, R., Pauli, F., Torelli, N. (2024).** pivmet: an R package proposing pivotal methods for consensus clustering and mixture modelling. [Journal of Open Source Software](https://joss.theoj.org/){:target="_blank" rel="noopener noreferrer"}, 98(9), 6461-6466.
 <a href="{{ '/paper/paper_pivmet_final.pdf' | relative_url }}" target="_blank">
