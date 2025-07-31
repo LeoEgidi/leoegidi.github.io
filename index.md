@@ -11,6 +11,10 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
         <i class="fas fa-envelope"></i> <!-- Icona dell'email -->
         <span class="tooltip">Mail</span>
     </a>
+    <a href="https://deams.units.it/en/node/45071" class="icon-link" target="_blank">
+    	<i class="fas fa-university"></i>
+    	<span class="tooltip">University</span>
+    </a>
     <a href="https://www.linkedin.com/in/leonardo-egidi-ba466261/?originalSubdomain=it" class="icon-link" target="_blank">
         <i class="fab fa-linkedin"></i>
         <span class="tooltip">LinkedIn</span>
@@ -43,6 +47,8 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 
 
 ## Short bio
+
+[🇮🇹 Leggi questa pagina in italiano](/it)
 
 <div class="two-columns">
   <div class="column">
@@ -95,6 +101,8 @@ I teach courses of 'Advanced Statistics', 'Statistical and Machine Learning', an
 
 I am an active member of the [Italian Statistical Society (SIS)](https://www.sis-statistica.it/){:target="_blank" rel="noopener noreferrer"} and the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/){:target="_blank" rel="noopener noreferrer"}. 
 I am the deputy chair of the [ISI Special Interest Group in Sports Statistics](https://www.isi-web.org/committee/special-interest-group-sports-statistics){:target="_blank" rel="noopener noreferrer"}.
+
+Here is my [official academic webpage](https://deams.units.it/en/node/45071){:target="_blank" rel="noopener noreferrer"}.
 
 
 You can download my whole CV here: 
