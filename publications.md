@@ -12,6 +12,11 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Theoretical, computational statistics, and machine learning
 
+- **Consonni, G., Egidi, L. (2025).** Assessing replication success via skeptical mixture priors. [TEST](https://link.springer.com/article/10.1007/s11749-025-00985-7){:target="_blank" rel="noopener noreferrer"}, 1-24.
+<a href="{{ '/paper/paper_test.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
+
 - **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2024).** Mixture priors for replication studies. [arXiv preprint arXiv:2406.19152](https://arxiv.org/abs/2406.19152){:target="_blank" rel="noopener noreferrer"}.
 
 - **Macrì Demartino, R., Egidi, L., Torelli, N., Ntzoufras, I. (2024).** Eliciting prior information from clinical trials via calibrated Bayes factor. [Computational Statistics & Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947325000568){:target="_blank" rel="noopener noreferrer"}, 209, 1-18.
@@ -23,8 +28,6 @@ desciption: "List of academic publications of Leonardo Egidi"
 <a href="{{ '/paper/paper_pivmet_final.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
-
-- **Consonni, G., Egidi, L. (2023).** Assessing replication success via skeptical mixture priors. [arXiv preprint arXiv:2401.00257](https://arxiv.org/html/2401.00257v1){:target="_blank" rel="noopener noreferrer"}.
 
 - **Egidi, L., Pauli, F., Torelli, N., Zaccarin, S. (2023).** Clustering spatial networks through latent mixture models. [Journal of the Royal Statistical Society (Series A)](https://rss.onlinelibrary.wiley.com/journal/1467985x){:target="_blank" rel="noopener noreferrer"}, 186(1), 137-156.
 <a href="{{ '/paper/clustering.pdf' | relative_url }}" target="_blank">
