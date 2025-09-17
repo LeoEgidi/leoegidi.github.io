@@ -71,7 +71,7 @@ lang: it
     </p>
   </div>
 <div class="column">
-    <img src="egidi_small.png" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
+    <img src="egidi_primo_piano.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
   </div>
 </div>
   
