@@ -110,8 +110,14 @@ You can download my whole CV here:
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
 
-
+<div class="two-columns">
+  <div class="column">
 <img src="Leonardo_Egidi_conference.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
+</div>
+<div class="column">
+    <img src="Leonardo_Egidi_conference2.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
+  </div>
+</div>
 
 
 
