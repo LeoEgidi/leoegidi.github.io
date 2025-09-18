@@ -15,6 +15,8 @@ I supervise and co-supervise also 3 PhD students.
 - **Roberto Macrì Demartino**: PhD in Statistical Sciences, University of Padova, "XXXVII Cycle" (2021-2024). Co-supervisor: Nicola Torelli.
 - **Giovanni Santacatterina**: PhD in Artificial Intelligence and Applied Data Science (ADSAI), University of Trieste, "XXXVIII Cycle" (2022-2025). Co-supervisor: Giulio Caravagna.
 - **Badar ud din Taher**: PhD in Artificial Intelligence and Applied Data Science (ADSAI), University of Trieste, "XXXIX Cycle" (2023-2026). Co-supervisor: Nicola Torelli.
+- **Edoardo Insaghi**: PhD in Artificial Intelligence and Applied Data Science (ADSAI), University of Trieste, "XLI cycle", 2025-2028. Co-supervisor: Giulio Caravagna.
+- **Davide Zennaro**: PhD in Artificial Intelligence and Applied Data Science (ADSAI), University of Trieste, "XLI cycle", 2025-2028. Co-supervisor: Alberto d’Onofrio.
 
 ### Thesis Supervision (MSc and Bachelor)
 
