@@ -109,3 +109,6 @@ Puoi scaricare una copia aggiornata del mio CV integrale qui:
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
 
+<img src="Leonardo_Egidi_conference.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
+
+
