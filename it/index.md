@@ -114,6 +114,6 @@ Puoi scaricare una copia aggiornata del mio CV integrale qui:
 <img src="Leonardo_Egidi_conference.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
 </div>
 <div class="column">
-    <img src="Leonardo_Egidi_conference2.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
+    <img src="Leonardo_Egidi_conference3.jpg" alt="Leonardo Egidi" style="float: center; margin-right: 10px;" width="300">
   </div>
 </div>
