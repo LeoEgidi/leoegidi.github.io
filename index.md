@@ -53,7 +53,7 @@ description: "Website of Leonardo Egidi, associate professor of statistics."
 <div class="two-columns">
   <div class="column">
      <p>
-      I am an <strong>associate professor (rtd-b)</strong> of <strong>Statistics</strong> at the 
+      I am an <strong>associate professor</strong> of <strong>Statistics</strong> at the 
       <a href="https://deams.units.it/" target="_blank">Department of Business, Economics, Mathematics and Statistics 'Bruno de Finetti' (DEAMS)</a> 
       of the <a href="https://portale.units.it/it" target="_blank">University of Trieste</a>.
     </p>
