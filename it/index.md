@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Leonardo Egidi - Chi sono"
-description: "Pagina personale di Leonardo Egidi, professore di statistica."
+description: "Pagina personale di Leonardo Egidi, professore associato di statistica."
 lang: it
 ---
 
@@ -54,12 +54,12 @@ lang: it
 <div class="two-columns">
   <div class="column">
      <p>
-      Sono un <strong> ricercatore e professore </strong> di <strong>Statistica</strong> presso il 
+      Sono un <strong>  professore associato </strong> di <strong>Statistica</strong> presso il 
       <a href="https://deams.units.it/" target="_blank">Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche 'Bruno de Finetti' (DEAMS)</a> 
       dell' <a href="https://portale.units.it/it" target="_blank">Università degli studi di Trieste</a>.
     </p>
     <p>
-      Sono stato un ricercatore post-doc presso il  
+      Sono stato un ricercatore (RTAa, RTDb 2020-2025) e un ricercatore post-doc presso il  
       <a href="https://deams.units.it/" target="_blank">DEAMS</a> (2018-2020). 
       Ho ottenuto un dottorato in statistica presso il  
       <a href="https://www.stat.unipd.it/" target="_blank">Dipartimento di Scienze Statistiche</a> dell'  

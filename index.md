@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Leonardo Egidi - About me"
-description: "Website of Leonardo Egidi, assistant professor of statistics."
+description: "Website of Leonardo Egidi, associate professor of statistics."
 ---
 
 # Leonardo Egidi
@@ -53,12 +53,12 @@ description: "Website of Leonardo Egidi, assistant professor of statistics."
 <div class="two-columns">
   <div class="column">
      <p>
-      I am an <strong>assistant professor (rtd-b)</strong> of <strong>Statistics</strong> at the 
+      I am an <strong>associate professor (rtd-b)</strong> of <strong>Statistics</strong> at the 
       <a href="https://deams.units.it/" target="_blank">Department of Business, Economics, Mathematics and Statistics 'Bruno de Finetti' (DEAMS)</a> 
       of the <a href="https://portale.units.it/it" target="_blank">University of Trieste</a>.
     </p>
     <p>
-      Previously, I was a postdoctoral research fellow at 
+      Previously, I was an assistant professor (2020-2025) and postdoctoral research fellow at 
       <a href="https://deams.units.it/" target="_blank">DEAMS</a> (2018-2020). 
       I got my PhD in Statistics among the 
       <a href="https://www.stat.unipd.it/" target="_blank">Department of Statistical Sciences</a>, 
