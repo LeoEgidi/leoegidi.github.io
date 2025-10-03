@@ -35,7 +35,7 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
   <div class="lab-member">
     <img src="zennaro.jpg" alt="Foto Studente 2">
     <div class="lab-info">
-      <h4>Nome Cognome</h4>
+      <h4>Davide Zennaro</h4>
       <p>PhD student</p>
     </div>
   </div>
@@ -43,7 +43,7 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
   <div class="lab-member">
     <img src="fantuzzi.jpg" alt="Foto Studente 3">
     <div class="lab-info">
-      <h4>Nome Cognome</h4>
+      <h4>Giulio Fantuzzi</h4>
       <p>MSc student</p>
     </div>
   </div>

@@ -657,6 +657,36 @@ a.pagination-item:hover {
     opacity: 1;
 }
 
+.lab-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; /* spazio tra i membri */
+}
+
+.lab-member {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.lab-member img {
+  width: 80px;     /* stessa larghezza */
+  height: 80px;    /* stessa altezza */
+  object-fit: cover; /* ritaglia senza deformare */
+  border-radius: 50%; /* cerchio, se vuoi */
+}
+
+.lab-info h4 {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.lab-info p {
+  margin: 2px 0 0 0;
+  color: #666;
+}
+
+
 
 
 
