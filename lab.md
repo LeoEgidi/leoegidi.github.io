@@ -25,7 +25,7 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
 
 <div class="lab-list">
   <div class="lab-member">
-    <img src="tahir.jpg" alt="Foto Studente 1">
+    <img src="tahir.jpeg" alt="Foto Studente 1">
     <div class="lab-info">
       <h4>Badar ud din Taher</h4>
       <p>PhD student</p>
