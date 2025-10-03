@@ -19,3 +19,32 @@ If you want to take an online/in person appointment, please use the [Calendly ap
 The **egBayes Lab** is in the main University's campus, located in Via Valerio 4/1, 34127, Trieste, Italy. Building D (DEAMS), 2nd floor, room 2.19.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2788.573618482325!2d13.791335076498134!3d45.6593837203943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477b6b3d55a56c43%3A0x3a3fd398bbffe06!2sEdificio%20D%2C%20Via%20Alfonso%20Valerio%2C%204%2F1%2C%2034127%20Trieste%20TS!5e0!3m2!1sit!2sit!4v1729680305904!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+## Members
+
+<div class="lab-list">
+  <div class="lab-member">
+    <img src="tahir.jpg" alt="Foto Studente 1">
+    <div class="lab-info">
+      <h4>Badar ud din Taher</h4>
+      <p>PhD student</p>
+    </div>
+  </div>
+
+  <div class="lab-member">
+    <img src="zennaro.jpg" alt="Foto Studente 2">
+    <div class="lab-info">
+      <h4>Nome Cognome</h4>
+      <p>PhD student</p>
+    </div>
+  </div>
+
+  <div class="lab-member">
+    <img src="fantuzzi.jpg" alt="Foto Studente 3">
+    <div class="lab-info">
+      <h4>Nome Cognome</h4>
+      <p>MSc student</p>
+    </div>
+  </div>
+</div>
