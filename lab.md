@@ -19,7 +19,7 @@ If you want to take an online/in person appointment, please use the [Calendly ap
 
 ## Details
 
-We meet every **Tuesday at 10 am** in the Meeting Room (third floor) at DEAMS, in Via Valerio 4/1D. We also broadcast the meeting through MS Teams. If you want to participate, just stop by or write me an email. We usually discuss some recent research of the members, or we discuss a general topic of interest for our community. The meeting is very informal, thus join us if you want to collaborate.
+We meet every **Tuesday at 10 am** in the Meeting Room (third floor) at DEAMS, in Via Valerio 4/1D, in the main campus of the University of Trieste. We also broadcast the meeting through MS Teams. If you want to participate, just stop by or write me an email. We usually discuss some recent research of the members, or we discuss a general topic of interest for our community. The meeting is very informal, thus join us if you want to collaborate.
 
 Here's the map:
 
