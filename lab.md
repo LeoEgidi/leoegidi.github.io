@@ -23,6 +23,25 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
 
 ## Members
 
+<div class="lab-member">
+    <img src="{{ '/macri.jpg' | relative_url }}" alt="macri">
+    <div class="lab-info">
+      <h4>Roberto Macrì Demartino</h4>
+      <p>Post-doc researcher</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="lab-member">
+    <img src="{{ '/santacatterina.png' | relative_url }}" alt="santa">
+    <div class="lab-info">
+      <h4>Giovanni Santacatterina</h4>
+      <p>PhD student</p>
+    </div>
+  </div>
+</div>
+
 <div class="lab-list">
   <div class="lab-member">
     <img src="{{ '/tahir.jpg' | relative_url }}" alt="Foto Studente 1">
@@ -32,19 +51,49 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
     </div>
   </div>
 
+<div class="lab-member">
+    <img src="{{ '/insaghi.jpg' | relative_url }}" alt="insa">
+    <div class="lab-info">
+      <h4>Edoardo Insaghi</h4>
+      <p>PhD student</p>
+    </div>
+  </div>
+
+
   <div class="lab-member">
-    <img src="zennaro.jpg" alt="Foto Studente 2">
+    <img src="{{ '/zennaro.jpg' | relative_url }}" alt="Foto Studente 2">
     <div class="lab-info">
       <h4>Davide Zennaro</h4>
       <p>PhD student</p>
     </div>
   </div>
 
+<div class="lab-member">
+    <img src="{{ '/deluca.jpg' | relative_url }}" alt="delu">
+    <div class="lab-info">
+      <h4>Erik De Luca</h4>
+      <p>MSc student</p>
+    </div>
+  </div>
+</div>
+
   <div class="lab-member">
-    <img src="fantuzzi.jpg" alt="Foto Studente 3">
+    <img src="{{ '/fantuzzi.jpg' | relative_url }}" alt="Foto Studente 3">
     <div class="lab-info">
       <h4>Giulio Fantuzzi</h4>
       <p>MSc student</p>
     </div>
   </div>
 </div>
+
+<div class="lab-member">
+    <img src="{{ '/viduli.jpg' | relative_url }}" alt="vidu">
+    <div class="lab-info">
+      <h4>Ruben Viduli</h4>
+      <p>MSc student</p>
+    </div>
+  </div>
+</div>
+
+
+
