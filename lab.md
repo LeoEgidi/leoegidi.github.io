@@ -11,10 +11,15 @@ description: "Bayesian Lab of Leonardo Egidi"
 If you are a statistician, data scientist, or applied scientist interested in **Bayesian methods**,
  **computational algorithms**, and/or **statistical modeling**, join our group, by writing me an email at: legidi *at* units *dot* it.
 
-The **egBayes Lab** is a vibrant community of postdoctoral researchers, PhD students, and MSc students working in statistics and data science projects.
+The **egBayes Lab** is a vibrant community of postdoctoral researchers, PhD students, and MSc students working in statistics and data science projects - see all the lab members by scrolling this page.
 For any update and event of the lab, consult this page frequently.
 
 If you want to take an online/in person appointment, please use the [Calendly application](https://calendly.com/leonegidi){:target="_blank" rel="noopener noreferrer"}.
+
+
+## Details
+
+We meet every Tuesday at 10 am in the Meeting Room (third floor) at DEAMS, in Via Valerio 4/1D. We also broadcast the meeting through MS Teams. If you want to participate, just stop by or write me an email. We usually discuss some recent research of the members, or we discuss a general topic of interest for our community. The meeting is very informal, thus join us if you want to collaborate.
 
 The **egBayes Lab** is in the main University's campus, located in Via Valerio 4/1, 34127, Trieste, Italy. Building D (DEAMS), 2nd floor, room 2.19.
 
@@ -22,6 +27,16 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
 
 
 ## Members
+
+<div class="lab-member">
+    <img src="{{ '/egidi_primo_piano.jpg' | relative_url }}" alt="egi">
+    <div class="lab-info">
+      <h4>Leonardo Egidi</h4>
+      <p>Associate professor</p>
+    </div>
+  </div>
+</div>
+
 
 <div class="lab-member">
     <img src="{{ '/macri.jpg' | relative_url }}" alt="macri">
@@ -46,7 +61,7 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
   <div class="lab-member">
     <img src="{{ '/tahir.jpg' | relative_url }}" alt="Foto Studente 1">
     <div class="lab-info">
-      <h4>Badar ud din Taher</h4>
+      <h4>Sheikh Badar ud din Tahir</h4>
       <p>PhD student</p>
     </div>
   </div>
