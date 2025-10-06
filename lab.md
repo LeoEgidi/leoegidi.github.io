@@ -35,7 +35,6 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <p>Associate professor</p>
     </div>
   </div>
-</div>
 
 
 <div class="lab-member">
@@ -45,7 +44,6 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <p>Post-doc researcher</p>
     </div>
   </div>
-</div>
 
 
 <div class="lab-member">
@@ -55,7 +53,6 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <p>PhD student</p>
     </div>
   </div>
-</div>
 
 <div class="lab-list">
   <div class="lab-member">
@@ -64,15 +61,14 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <h4>Sheikh Badar ud din Tahir</h4>
       <p>PhD student</p>
     </div>
-  </div>
-
+  
 <div class="lab-member">
     <img src="{{ '/insaghi.jpg' | relative_url }}" alt="insa">
     <div class="lab-info">
       <h4>Edoardo Insaghi</h4>
       <p>PhD student</p>
     </div>
-  </div>
+ </div>
 
 
   <div class="lab-member">
@@ -90,7 +86,6 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <p>MSc student</p>
     </div>
   </div>
-</div>
 
   <div class="lab-member">
     <img src="{{ '/fantuzzi.jpg' | relative_url }}" alt="Foto Studente 3">
@@ -99,7 +94,6 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <p>MSc student</p>
     </div>
   </div>
-</div>
 
 <div class="lab-member">
     <img src="{{ '/viduli.jpg' | relative_url }}" alt="vidu">
@@ -108,7 +102,6 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <p>MSc student</p>
     </div>
   </div>
-</div>
 
 
 
