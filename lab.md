@@ -61,6 +61,7 @@ The **egBayes Lab** is in the main University's campus, located in Via Valerio 4
       <h4>Sheikh Badar ud din Tahir</h4>
       <p>PhD student</p>
     </div>
+</div>
   
 <div class="lab-member">
     <img src="{{ '/insaghi.jpg' | relative_url }}" alt="insa">
