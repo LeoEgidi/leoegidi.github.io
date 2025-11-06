@@ -44,3 +44,7 @@ I supervise and co-supervise also 3 PhD students.
 - **Nico Zanusso**: *Assessing Implicit Inflation: an Individual-level Data Approach* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2023-2024).
 - **Francesca Galuppo**: *Impatto dell'utilizzo della telematica nella tariffazione RC Auto mediante tecniche di machine learning e metodi statistici* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2023-2024).
 - **Nicola Maneo**: *Analisi sulla Previsione dei Risultati nel Tennis: Un Modello Basato sulla Distribuzione di Skellam* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2023-2024).
+- **Ruben Viduli**: *Variational inference algorithms: from simulation to
+an actuarial science application* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y.: 2024-2025).
+- **Erik De Luca**: *Thesis title: Modellazione statistica delle donazioni di
+sangue nella provincia di Trieste* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y.: 2024-2025).
