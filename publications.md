@@ -6,11 +6,24 @@ permalink: /leonardo-egidi-publications/
 desciption: "List of academic publications of Leonardo Egidi"
 ---
 
+## Books
+
+- *Predictive Modelling for Football Analytics*, with Dimitris Karlis and Ioannis Ntzoufras, CRC Press, [https://doi.org/10.1201/9781003186496](https://doi.org/10.1201/9781003186496).  [LINK](https://www.taylorfrancis.com/books/mono/10.1201/9781003186496/predictive-modelling-football-analytics-dimitris-karlis-ioannis-ntzoufras-leonardo-egidi){:target="_blank" rel="noopener noreferrer"}
+
+Reproducible R code [here](https://github.com/LeoEgidi/Predictive-Modelling-for-Football-Analytics---Reproducible-code-and-data).
+
+<img src="our_book.png" alt="PMFA book" style="float: center; margin-right: 10px;" width="300">
 
 
 ## Selected publications in journals
 
 ### Theoretical, computational statistics, and machine learning
+
+- **Egidi, L. (2025).** Discussion on "Model Uncertainty and Missing Data: An Objective Bayesian Perspective" by G. García-Donato, M. E. Castellanos, S. Cabras, A. Quirós, A. Forte. [Bayesian Analysis](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F25-BA1531), 49-51.
+<a href="{{ '/paper/garciadonato_atal_2025.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
+
 
 - **Consonni, G., Egidi, L. (2025).** Assessing replication success via skeptical mixture priors. [TEST](https://link.springer.com/article/10.1007/s11749-025-00985-7){:target="_blank" rel="noopener noreferrer"}, 1-24.
 <a href="{{ '/paper/paper_test.pdf' | relative_url }}" target="_blank">
