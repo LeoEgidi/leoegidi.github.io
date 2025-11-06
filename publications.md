@@ -12,7 +12,7 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 Reproducible R code [here](https://github.com/LeoEgidi/Predictive-Modelling-for-Football-Analytics---Reproducible-code-and-data).
 
-<img src="our_book.png" alt="PMFA book" style="float: center; margin-right: 10px;" width="300">
+<img src="{{ '/our_book.png' | relative_url }}" alt="PMFA book" style="float: center; margin-right: 10px;" width="300">
 
 
 ## Selected publications in journals
