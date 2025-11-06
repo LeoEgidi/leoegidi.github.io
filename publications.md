@@ -8,7 +8,7 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ## Books
 
-- *Predictive Modelling for Football Analytics*, with Dimitris Karlis and Ioannis Ntzoufras, CRC Press, [https://doi.org/10.1201/9781003186496](https://doi.org/10.1201/9781003186496).  [LINK](https://www.taylorfrancis.com/books/mono/10.1201/9781003186496/predictive-modelling-football-analytics-dimitris-karlis-ioannis-ntzoufras-leonardo-egidi){:target="_blank" rel="noopener noreferrer"}
+- *Predictive Modelling for Football Analytics*, by **Leonardo Egidi**, Dimitris Karlis and Ioannis Ntzoufras, CRC Press, [https://doi.org/10.1201/9781003186496](https://doi.org/10.1201/9781003186496).  [LINK](https://www.taylorfrancis.com/books/mono/10.1201/9781003186496/predictive-modelling-football-analytics-dimitris-karlis-ioannis-ntzoufras-leonardo-egidi){:target="_blank" rel="noopener noreferrer"}
 
 Reproducible R code [here](https://github.com/LeoEgidi/Predictive-Modelling-for-Football-Analytics---Reproducible-code-and-data).
 
