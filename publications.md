@@ -19,6 +19,9 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Theoretical, computational statistics, and machine learning
 
+- **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2026).** Mixture priors for replication studies. Accepted on [Statistical Science](https://imstat.org/journals-and-publications/statistical-science/). [arXiv preprint arXiv:2406.19152](https://arxiv.org/abs/2406.19152){:target="_blank" rel="noopener noreferrer"}.
+
+
 - **Egidi, L. (2025).** Discussion on "Model Uncertainty and Missing Data: An Objective Bayesian Perspective" by G. García-Donato, M. E. Castellanos, S. Cabras, A. Quirós, A. Forte. [Bayesian Analysis](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F25-BA1531), 49-51.
 <a href="{{ '/paper/garciadonato_atal_2025.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
@@ -30,7 +33,6 @@ desciption: "List of academic publications of Leonardo Egidi"
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
 
-- **Macrì Demartino, R., Egidi, L., Held, L., Pawel, L. (2024).** Mixture priors for replication studies. [arXiv preprint arXiv:2406.19152](https://arxiv.org/abs/2406.19152){:target="_blank" rel="noopener noreferrer"}.
 
 - **Macrì Demartino, R., Egidi, L., Torelli, N., Ntzoufras, I. (2024).** Eliciting prior information from clinical trials via calibrated Bayes factor. [Computational Statistics & Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947325000568){:target="_blank" rel="noopener noreferrer"}, 209, 1-18.
 <a href="{{ '/paper/paper_csda.pdf' | relative_url }}" target="_blank">
@@ -94,7 +96,7 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Sports statistics
 
-- **Macrì Demartino, R., Egidi, L., Torelli, N. (2024).** Alternative ranking measures to predict international football results. [Computational Statistics](https://link.springer.com/article/10.1007/s00180-024-01585-z){:target="_blank" rel="noopener noreferrer"}, 1-19.
+- **Macrì Demartino, R., Egidi, L., Torelli, N. (2025).** Alternative ranking measures to predict international football results. [Computational Statistics](https://link.springer.com/article/10.1007/s00180-024-01585-z){:target="_blank" rel="noopener noreferrer"}, 40(4), 1899-1917.
 
 - **Egidi, L. (2023).** Seconder of the vote of thanks to Narayanan, Kosmidis, and Dellaportas and contribution to the Discussion of "Flexible marked spatio-temporal point processes with applications to event sequences from association football". [Journal of the Royal Statistical Society (Series C)](https://rss.onlinelibrary.wiley.com/journal/14679876){:target="_blank" rel="noopener noreferrer"}, 72(5), 1129-1130.
 <a href="{{ '/paper/discussion_paper.pdf' | relative_url }}" target="_blank">
