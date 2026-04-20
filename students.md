@@ -51,5 +51,5 @@ sangue nella provincia di Trieste* (MSc in Scienze statistiche e attuariali, Uni
 - **Giulio Fantuzzi**: *From Tracking Data to Performance Insights: Advancing Intensity Metrics in Football Analytics* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025).
 - **Tanja Derin**: *Determinants of Profitability in Domestic and Foreign-Controlled EU Banking
 Sectors: Evidence from ECB Consolidated Banking Data* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025). 
-- **Alessandro Piccaro: *Dynamic Goal Analysis in Soccer: a  score-dependent stochastic process to explain draw inflation* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025).
+- **Alessandro Piccaro**: *Dynamic Goal Analysis in Soccer: a  score-dependent stochastic process to explain draw inflation* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025).
 - **Samuele Coletti**: *I rischi naturali catastrofali e il mercato assicurativo: un confronto tra modelli classici e modelli bayesiani* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y.: 2024-2025).
