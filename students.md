@@ -7,7 +7,7 @@ description: "MSc and PhD students supervised by Leonardo Egidi"
 font: "Roboto"
 ---
 
-I have supervised 24 MSc students and 2 Bachelor students in Statistics and Data Science on different topics.
+I have supervised 28 MSc students and 2 Bachelor students in Statistics and Data Science on different topics.
 I supervise and co-supervise also 3 PhD students.
 
 ### PhD Supervision
@@ -46,5 +46,10 @@ I supervise and co-supervise also 3 PhD students.
 - **Nicola Maneo**: *Analisi sulla Previsione dei Risultati nel Tennis: Un Modello Basato sulla Distribuzione di Skellam* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y. 2023-2024).
 - **Ruben Viduli**: *Variational inference algorithms: from simulation to
 an actuarial science application* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y.: 2024-2025).
-- **Erik De Luca**: *Thesis title: Modellazione statistica delle donazioni di
+- **Erik De Luca**: *Modellazione statistica delle donazioni di
 sangue nella provincia di Trieste* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y.: 2024-2025).
+- **Giulio Fantuzzi**: *From Tracking Data to Performance Insights: Advancing Intensity Metrics in Football Analytics* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025).
+- **Tanja Derin**: *Determinants of Profitability in Domestic and Foreign-Controlled EU Banking
+Sectors: Evidence from ECB Consolidated Banking Data* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025). 
+- **Alessandro Piccaro: *Dynamic Goal Analysis in Soccer: a  score-dependent stochastic process to explain draw inflation* (MSc in Data Science and Artificial Intelligence, University of Trieste, A.Y.: 2024-2025).
+- **Samuele Coletti**: *I rischi naturali catastrofali e il mercato assicurativo: un confronto tra modelli classici e modelli bayesiani* (MSc in Scienze statistiche e attuariali, University of Trieste, A.Y.: 2024-2025).
