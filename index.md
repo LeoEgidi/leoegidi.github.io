@@ -83,6 +83,8 @@ I am the **Principal Investigator** (PI) of the [PRIN 2022](https://prin.mur.gov
 funded by [Ministero dell' Università e della Ricerca](https://www.mur.gov.it/it){:target="_blank" rel="noopener noreferrer"} (CUP: J53D23003860006) in 2023. Joint project with [University of Udine](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/prin-2022/dies/smartsports-statistical-models-and-algorithms-in-sports-applications-in-professional-and-amateur-contexts-with-able-bodied-and-disabled-athletes){:target="_blank" rel="noopener noreferrer"} 
 and [University of Brescia](https://www.unibs.it/it){:target="_blank" rel="noopener noreferrer"}.
 
+In 2025 I published the book [Predictive Modelling for Football Analytics](https://www.taylorfrancis.com/books/mono/10.1201/9781003186496/predictive-modelling-football-analytics-dimitris-karlis-ioannis-ntzoufras-leonardo-egidi), edited by CRC Press, with the colleagues Dimitris Karlis and Ioannis Ntzoufras.
+
 ## Scientific dissemination
 
 I usually give [talks](https://www.youtube.com/results?search_query=leonardo+egidi){:target="_blank" rel="noopener noreferrer"}, seminars, and [interviews](https://www.youtube.com/results?search_query=leonardo+egidi){:target="_blank" rel="noopener noreferrer"} about my scientific activity and general topics statistics related to science.
