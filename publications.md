@@ -96,9 +96,11 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Sports statistics
 
+- **Macrì Demartino, R., Egidi, L., Torelli, N. (2026).** Bayesian weighted discrete-time dynamic models for association football prediction . [Journal of the Royal Statistical Society Series C: Applied Statistics](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlag032/8704597?searchresult=1){:target="_blank" rel="noopener noreferrer"}, 1-29.
+
 - **Macrì Demartino, R., Egidi, L., Torelli, N. (2025).** Alternative ranking measures to predict international football results. [Computational Statistics](https://link.springer.com/article/10.1007/s00180-024-01585-z){:target="_blank" rel="noopener noreferrer"}, 40(4), 1899-1917.
 
-- **Egidi, L. (2023).** Seconder of the vote of thanks to Narayanan, Kosmidis, and Dellaportas and contribution to the Discussion of "Flexible marked spatio-temporal point processes with applications to event sequences from association football". [Journal of the Royal Statistical Society (Series C)](https://rss.onlinelibrary.wiley.com/journal/14679876){:target="_blank" rel="noopener noreferrer"}, 72(5), 1129-1130.
+- **Egidi, L. (2023).** Seconder of the vote of thanks to Narayanan, Kosmidis, and Dellaportas and contribution to the Discussion of "Flexible marked spatio-temporal point processes with applications to event sequences from association football". [Journal of the Royal Statistical Society Series C: Applied Statistics](https://rss.onlinelibrary.wiley.com/journal/14679876){:target="_blank" rel="noopener noreferrer"}, 72(5), 1129-1130.
 <a href="{{ '/paper/discussion_paper.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
