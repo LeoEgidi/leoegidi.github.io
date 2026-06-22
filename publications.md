@@ -78,6 +78,11 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Medical statistics, psychometric and biostatistics
 
+- **Santacatterina, G., Tosato, N., Milite, S., Davydzenka, K., Insaghi, E., Sanguinetti, G., Cozzini, S., Egidi, L., Caravagna, G. (2026).** Scalable, fast and accurate differential gene expression testing from millions of cells of multiple patients. [Nature Communications](https://www.nature.com/articles/s41467-026-74451-9){:target="_blank" rel="noopener noreferrer"}.
+<a href="{{ '/paper/devil.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
+
 - **Pastore, M. R., Milan, S., Agolini, R., Egidi, L., Agostini, T., Belfanti, L., Tognetto, D. (2022).** How Could Medical and Surgical Treatment Affect the Quality of Life in Glaucoma Patients? A Cross-Sectional Study. [Journal of Clinical Medicine](https://www.mdpi.com/journal/jcm){:target="_blank" rel="noopener noreferrer"}, 11(24), 7301-7312.
 <a href="{{ '/paper/jcm-11-07301-v2.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
