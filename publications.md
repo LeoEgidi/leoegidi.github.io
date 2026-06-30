@@ -101,6 +101,12 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Sports statistics
 
+- **Macrì Demartino, R., Egidi, L., Torelli, N. (2026).** Bayesian dynamic Bradley-Terry model with commensurate spike-and-slab priors . [Journal of Big Data](https://link.springer.com/article/10.1186/s40537-026-01486-6){:target="_blank" rel="noopener noreferrer"}, 1-32.
+<a href="{{ '/paper/paper_bigdata.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
+
+
 - **Macrì Demartino, R., Egidi, L., Torelli, N. (2026).** Bayesian weighted discrete-time dynamic models for association football prediction . [Journal of the Royal Statistical Society Series C: Applied Statistics](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlag032/8704597?searchresult=1){:target="_blank" rel="noopener noreferrer"}, 1-29.
 <a href="{{ '/paper/bayesian_weighted.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
