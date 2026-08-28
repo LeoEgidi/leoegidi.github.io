@@ -78,7 +78,13 @@ desciption: "List of academic publications of Leonardo Egidi"
 
 ### Medical statistics, psychometric and biostatistics
 
-- **Santacatterina, G., Tosato, N., Milite, S., Davydzenka, K., Insaghi, E., Sanguinetti, G., Cozzini, S., Egidi, L., Caravagna, G. (2026).** Scalable, fast and accurate differential gene expression testing from millions of cells of multiple patients. [Nature Communications](https://www.nature.com/articles/s41467-026-74451-9){:target="_blank" rel="noopener noreferrer"}.
+- **Calonaci, N., Krasniki, E., Colic, D., Scalera, S., Gandolfi, G., Milite, S., Bräutigam, K., Sottoriva, A., Graham, T.A., Egidi, L., Ricciuti, B., Maugeri-Saccà, M., Caravagna, G. (2026)**. Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples. [Nature Genetics](https://www.nature.com/articles/s41588-026-02666-z){:target="_blank" rel="noopener noreferrer"}, 58, 1906-1917
+<a href="{{ '/paper/gene.pdf' | relative_url }}" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download PDF
+</a>
+
+
+- **Santacatterina, G., Tosato, N., Milite, S., Davydzenka, K., Insaghi, E., Sanguinetti, G., Cozzini, S., Egidi, L., Caravagna, G. (2026).** Scalable, fast and accurate differential gene expression testing from millions of cells of multiple patients. [Nature Communications](https://www.nature.com/articles/s41467-026-74451-9){:target="_blank" rel="noopener noreferrer"}, 17.
 <a href="{{ '/paper/devil.pdf' | relative_url }}" target="_blank">
     <i class="fas fa-file-pdf"></i> Download PDF
 </a>
